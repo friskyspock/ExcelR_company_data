@@ -1,4 +1,4 @@
-# ExcelR_company_data
+# company-data-excelr
 Assignment for Decision Trees and Random Forest
 
 ### Problem Statement:
